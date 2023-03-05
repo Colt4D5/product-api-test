@@ -1,12 +1,12 @@
-import express from 'express'
+const express = require('express')
 const router = express.Router()
 
 // controllers
-import * as products from '../controllers/hairCareController.js'
+const products = require('../controllers/hairCareController.js')
 
 router
   .route('/:category')
-    .get(products.getProducts)
+    .get(products)
 
 
 // router
@@ -21,4 +21,4 @@ router
 //   .route('/conditioner')
 //     .get(hairCare.getConditioner)
 
-    export default router
+module.exports = router

@@ -1,7 +1,7 @@
-import express from 'express'
+const express = require('express')
 const router = express.Router()
 
-import hairCareRouter from './hairCareRouter.js'
+const hairCareRouter = require('./hairCareRouter.js')
 // import * as products from '../controllers/hairCareController.js'
 
 router.use('/hair-care', hairCareRouter)
@@ -10,4 +10,4 @@ router.use('/hair-care', hairCareRouter)
 //   .route('/:category')
 //     .get(products.getProducts)
 
-    export default router
+module.exports = router

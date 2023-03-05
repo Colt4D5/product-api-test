@@ -1,11 +1,11 @@
-import express from 'express'
-import morgan from 'morgan'
-import cors from 'cors'
-import * as dotenv from 'dotenv'
+const express = require('express')
+const morgan = require('morgan')
+const cors = require('cors')
+const dotenv = require('dotenv')
 dotenv.config()
 const app = express()
 
-import appRouter from './app.js'
+const appRouter = require('./app.js')
 
 
 const PORT = process.env.PORT || 3000
