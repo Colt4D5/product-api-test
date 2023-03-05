@@ -6,7 +6,7 @@ const getProducts = (req, res) => {
   const { category } = req.params
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = dirname(__filename);
-  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + `/api/hair-care/${category}.json`);
+  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + `/public/hair-care/${category}.json`);
   let products = JSON.parse(jsonData);
   res.status(200).json( {products} )
 }
@@ -14,7 +14,7 @@ const getProducts = (req, res) => {
 const getShampoos = (req, res) => {
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = dirname(__filename);
-  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + '/api/hair-care/shampoo.json');
+  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + '/hair-care/shampoo.json');
   let shampoos = JSON.parse(jsonData);
   const response = {
     products: shampoos
@@ -25,7 +25,7 @@ const getShampoos = (req, res) => {
 const getScalpCare = (req, res) => {
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = dirname(__filename);
-  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + '/api/hair-care/scalp-care.json');
+  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + '/hair-care/scalp-care.json');
   let scalpCare = JSON.parse(jsonData);
   const response = {
     products: scalpCare
@@ -36,7 +36,7 @@ const getScalpCare = (req, res) => {
 const getConditioner = (req, res) => {
   const __filename = fileURLToPath(import.meta.url);
   const __dirname = dirname(__filename);
-  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + '/api/hair-care/conditioner.json');
+  let jsonData = fs.readFileSync(__dirname.replace('/controllers', '') + '/hair-care/conditioner.json');
   let scalpCare = JSON.parse(jsonData);
   const response = {
     products: scalpCare
