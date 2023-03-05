@@ -1,0 +1,538 @@
+[
+  {
+      "title": "botanical repair™ strengthening shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AX0Y01_122717_330x548_0.jpg",
+      "alt": "botanical repair<span class=\"trade\">&trade;</span> strengthening shampoo",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "botanical repair™ strengthening shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AX1001_122891_330x548_0.jpg",
+      "alt": "botanical repair<span class=\"trade\">&trade;</span> strengthening shampoo",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "botanical repair™ strengthening shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AX1101_122893_330x548_0.jpg",
+      "alt": "botanical repair<span class=\"trade\">&trade;</span> strengthening shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "145.00"
+  },
+  {
+      "title": "scalp solutions balancing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VN5T01_164705_330x548_0.jpg",
+      "alt": "scalp solutions balancing shampoo",
+      "badge": "NEW",
+      "size": "6.7 fl oz/200 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "scalp solutions balancing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VN5W01_164707_330x548_0.jpg",
+      "alt": "scalp solutions balancing shampoo",
+      "badge": "TRAVEL-SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "nutriplenish™ shampoo deep moisture",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AW9L01_110552_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> shampoo deep moisture",
+      "badge": "",
+      "size": "8.5 fl oz/250 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "nutriplenish™ shampoo deep moisture",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AW9M01_110562_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> shampoo deep moisture",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "128.00"
+  },
+  {
+      "title": "nutriplenish™ shampoo deep moisture",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AW9K01_110567_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> shampoo deep moisture",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "nutriplenish™ shampoo light moisture",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AW9A01_110550_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> shampoo light moisture",
+      "badge": "",
+      "size": "8.5 fl oz/250 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "nutriplenish™ shampoo light moisture",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AW9C01_110560_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> shampoo light moisture",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "128.00"
+  },
+  {
+      "title": "nutriplenish™ shampoo light moisture",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AW9901_110565_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> shampoo light moisture",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "invati advanced™ exfoliating shampoo light",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWK801_123519_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> exfoliating shampoo light",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/ 1 litre",
+      "price": "145.00"
+  },
+  {
+      "title": "invati advanced™ exfoliating shampoo light",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWK701_123518_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> exfoliating shampoo light",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "invati advanced™ exfoliating shampoo light",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AXF101_123520_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> exfoliating shampoo light",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "invati advanced™ exfoliating shampoo rich",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWLC01_123522_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> exfoliating shampoo rich",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "invati advanced™ exfoliating shampoo rich",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWLE01_123523_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> exfoliating shampoo rich",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/ 1 litre",
+      "price": "145.00"
+  },
+  {
+      "title": "invati advanced™ exfoliating shampoo rich",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWLA01_123524_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> exfoliating shampoo rich",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "smooth infusion™ anti-frizz shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMPL01_148885_330x548_0.jpg",
+      "alt": "smooth infusion<span class=\"trade\">&trade;</span> anti-frizz shampoo",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "30.00"
+  },
+  {
+      "title": "smooth infusion™ anti-frizz shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMPK01_148884_330x548_0.jpg",
+      "alt": "smooth infusion<span class=\"trade\">&trade;</span> anti-frizz shampoo",
+      "badge": "",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "color control shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMNT01_157322_330x548_0.jpg",
+      "alt": "color control shampoo",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "30.00"
+  },
+  {
+      "title": "color control shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMNP01_157321_330x548_0.jpg",
+      "alt": "color control shampoo",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "color control shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMNW01_157323_330x548_0.jpg",
+      "alt": "color control shampoo",
+      "badge": "",
+      "size": "33.8 fl oz/1 litre",
+      "price": "121.00"
+  },
+  {
+      "title": "blonde revival™ purple toning shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AYCM01_133118_330x548_0.jpg",
+      "alt": "blonde revival<span class=\"trade\">&trade;</span> purple toning shampoo",
+      "badge": "TRAVEL SIZE",
+      "size": "1.4 fl oz/40 ml - travel size",
+      "price": "13.00"
+  },
+  {
+      "title": "blonde revival™ purple toning shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMRJ01_148510_330x548_0.jpg",
+      "alt": "blonde revival<span class=\"trade\">&trade;</span> purple toning shampoo",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "30.00"
+  },
+  {
+      "title": "blonde revival™ purple toning shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMM601_148512_330x548_0.jpg",
+      "alt": "blonde revival<span class=\"trade\">&trade;</span> purple toning shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "121.00"
+  },
+  {
+      "title": "blonde revival™ gift set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_V9RFY2_164386_330x548_0.jpg",
+      "alt": "blonde revival<span class=\"trade\">&trade;</span> gift set",
+      "badge": "LIMITED-EDITION",
+      "size": "gift set",
+      "price": "55.00"
+  },
+  {
+      "title": "rosemary mint purifying shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR5Y01_98350_330x548_0.jpg",
+      "alt": "rosemary mint purifying shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "67.00"
+  },
+  {
+      "title": "rosemary mint purifying shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR5X01_98348_330x548_0.jpg",
+      "alt": "rosemary mint purifying shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz/250 ml",
+      "price": "21.00"
+  },
+  {
+      "title": "rosemary mint purifying shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR5W01_98349_330x548_0.jpg",
+      "alt": "rosemary mint purifying shampoo",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "11.00"
+  },
+  {
+      "title": "cherry almond softening shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_ARWL01_98343_330x548_0.jpg",
+      "alt": "cherry almond softening shampoo",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "11.00"
+  },
+  {
+      "title": "cherry almond softening shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR3E01_93823_330x548_0.jpg",
+      "alt": "cherry almond softening shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "67.00"
+  },
+  {
+      "title": "cherry almond softening shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR3C01_93822_330x548_0.jpg",
+      "alt": "cherry almond softening shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz/250 ml",
+      "price": "21.00"
+  },
+  {
+      "title": "sap moss™ weightless hydration shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_ARM201_106743_330x548_0.jpg",
+      "alt": "sap moss<span class=\"trade\">&trade;</span> weightless hydration shampoo",
+      "badge": "",
+      "size": "6.7 fl oz/200 ml",
+      "price": "31.00"
+  },
+  {
+      "title": "color care holiday gift set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_V9RKY2_164382_330x548_0.jpg",
+      "alt": "color care holiday gift set",
+      "badge": "LIMITED-EDITION",
+      "size": "gift set",
+      "price": "55.00"
+  },
+  {
+      "title": "damage remedy™ restructuring shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AF2P01_50300_330x548_0.jpg",
+      "alt": "damage remedy<span class=\"trade\">&trade;</span> restructuring shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz/250 ml",
+      "price": "35.00"
+  },
+  {
+      "title": "damage remedy™ restructuring shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AF2R01_50301_330x548_0.jpg",
+      "alt": "damage remedy<span class=\"trade\">&trade;</span> restructuring shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "110.00"
+  },
+  {
+      "title": "be curly™ shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A3GT01_33981_330x548_0.jpg",
+      "alt": "be curly<span class=\"trade\">&trade;</span> shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz / 250 ml",
+      "price": "29.00"
+  },
+  {
+      "title": "be curly™ shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A3GR01_33980_330x548_0.jpg",
+      "alt": "be curly<span class=\"trade\">&trade;</span> shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz / 1 litre",
+      "price": "93.00"
+  },
+  {
+      "title": "be curly™ co-wash",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AJ2001_63725_330x548_0.jpg",
+      "alt": "be curly<span class=\"trade\">&trade;</span> co-wash",
+      "badge": "",
+      "size": "8.5 fl oz/250 ml",
+      "price": "33.00"
+  },
+  {
+      "title": "pure abundance™ volumizing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A2K501_33784_330x548_0.jpg",
+      "alt": "pure abundance<span class=\"trade\">&trade;</span> volumizing shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz/250 ml",
+      "price": "29.00"
+  },
+  {
+      "title": "pure abundance™ volumizing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A2K601_33785_330x548_0.jpg",
+      "alt": "pure abundance<span class=\"trade\">&trade;</span> volumizing shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "93.00"
+  },
+  {
+      "title": "brilliant™ shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A1K501_33408_330x548_0.jpg",
+      "alt": "brilliant<span class=\"trade\">&trade;</span> shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz/250 ml",
+      "price": "29.00"
+  },
+  {
+      "title": "brilliant™ shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A1K201_33404_330x548_0.jpg",
+      "alt": "brilliant<span class=\"trade\">&trade;</span> shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "93.00"
+  },
+  {
+      "title": "shampure™ nurturing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR5J01_98359_330x548_0.jpg",
+      "alt": "shampure<span class=\"trade\">&trade;</span> nurturing shampoo",
+      "badge": "TRAVEL SIZE",
+      "size": "1.7 fl oz/50 ml - travel size",
+      "price": "11.00"
+  },
+  {
+      "title": "shampure™ nurturing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR5L01_98358_330x548_0.jpg",
+      "alt": "shampure<span class=\"trade\">&trade;</span> nurturing shampoo",
+      "badge": "LITRE",
+      "size": "33.8 fl oz/1 litre",
+      "price": "67.00"
+  },
+  {
+      "title": "shampure™ nurturing shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AR5K01_98357_330x548_0.jpg",
+      "alt": "shampure<span class=\"trade\">&trade;</span> nurturing shampoo",
+      "badge": "BEST SELLER",
+      "size": "8.5 fl oz/250 ml",
+      "price": "21.00"
+  },
+  {
+      "title": "invati men™ nourishing exfoliating shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AKCJ01_70917_330x548_0.jpg",
+      "alt": "invati men<span class=\"trade\">&trade;</span> nourishing exfoliating shampoo",
+      "badge": "",
+      "size": "8.5 fl oz/250 ml",
+      "price": "38.00"
+  },
+  {
+      "title": "aveda men pure-formance™ shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A3TL01_34061_330x548_0.jpg",
+      "alt": "aveda men pure-formance<span class=\"trade\">&trade;</span> shampoo",
+      "badge": "",
+      "size": "10.1 fl oz/300 ml",
+      "price": "29.00"
+  },
+  {
+      "title": "sun care hair and body cleanser",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A3YY01_34120_330x548_0.jpg",
+      "alt": "sun care hair and body cleanser",
+      "badge": "",
+      "size": "8.5 fl oz/250 ml",
+      "price": "29.00"
+  },
+  {
+      "title": "blue malva shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_A1TX01_33500_330x548_0.jpg",
+      "alt": "blue malva shampoo",
+      "badge": "BEST SELLER",
+      "size": "33.8 fl oz/1 litre",
+      "price": "66.00"
+  },
+  {
+      "title": "shampowder™ dry shampoo",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWHP01_131601_330x548_0.jpg",
+      "alt": "shampowder<span class=\"trade\">&trade;</span> dry shampoo",
+      "badge": "",
+      "size": "2 fl oz/56 g",
+      "price": "36.00"
+  },
+  {
+      "title": "foam reset™ rinseless hydrating hair cleanser",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AWCT01_117278_330x548_0.jpg",
+      "alt": "foam reset<span class=\"trade\">&trade;</span> rinseless hydrating hair cleanser",
+      "badge": "",
+      "size": "5 fl oz/150 ml",
+      "price": "36.00"
+  },
+  {
+      "title": "invati advanced™ system set light",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AY0301_124714_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> system set light",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($148 value)",
+      "price": "138.00"
+  },
+  {
+      "title": "invati advanced™ system set rich",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AY0201_124710_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> system set rich",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($148 value)",
+      "price": "138.00"
+  },
+  {
+      "title": "healthy scalp set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VP3001_150850_330x548_0.jpg",
+      "alt": "healthy scalp set",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($168 value) ",
+      "price": "153.00"
+  },
+  {
+      "title": "botanical repair™ light strengthening set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AV1083_123603_330x548_0.jpg",
+      "alt": "botanical repair<spanclass=\"trade\">&trade;</span> light strengthening set",
+      "badge": "",
+      "size": "gift set",
+      "price": "126.00"
+  },
+  {
+      "title": "nutriplenish™ deep hydration set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AV0982_114010_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> deep hydration set",
+      "badge": "",
+      "size": "gift set",
+      "price": "118.00"
+  },
+  {
+      "title": "nutriplenish™ light hydration set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AV0981_114009_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> light hydration set",
+      "badge": "",
+      "size": "gift set ",
+      "price": "118.00"
+  },
+  {
+      "title": "botanical repair™ strengthening essentials",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VNHY01_161893_330x548_0.jpg",
+      "alt": "botanical repair<span class=\"trade\">&trade;</span> strengthening essentials",
+      "badge": "LIMITED-EDITION",
+      "size": "gift set ($118 value)",
+      "price": "88.00"
+  },
+  {
+      "title": "botanical repair™ strengthening trio light",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AYKE01_122903_330x548_0.jpg",
+      "alt": "botanical repair<span class=\"trade\">&trade;</span> strengthening trio light ",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($36 value)",
+      "price": "30.00"
+  },
+  {
+      "title": "botanical repair™ strengthening trio rich",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AYKF01_122904_330x548_0.jpg",
+      "alt": "botanical repair<span class=\"trade\">&trade;</span> strengthening trio rich ",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($36 value)",
+      "price": "30.00"
+  },
+  {
+      "title": "nutriplenish™ light moisture trio",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMWE01_151436_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> light moisture trio",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($36 value)",
+      "price": "30.00"
+  },
+  {
+      "title": "nutriplenish™ deep moisture trio",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMWF01_151437_330x548_0.jpg",
+      "alt": "nutriplenish<span class=\"trade\">&trade;</span> deep moisture trio",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($36 value)",
+      "price": "30.00"
+  },
+  {
+      "title": "invati advanced™ light trio",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_VMWG01_151440_330x548_0.jpg",
+      "alt": "invati advanced<span class=\"trade\">&trade;</span> light trio",
+      "badge": "NOT ELIGIBLE FOR DISCOUNT",
+      "size": "gift set ($43 value)",
+      "price": "36.00"
+  },
+  {
+      "title": "be curly™ set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AV0376_34731_330x548_0.jpg",
+      "alt": "be curly<span class=\"trade\">&trade;</span> set",
+      "badge": "",
+      "size": "kit",
+      "price": "126.00"
+  },
+  {
+      "title": "invati men™ system",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AV0617_72210_330x548_0.jpg",
+      "alt": "invati men<span class=\"trade\">&trade;</span> system",
+      "badge": "",
+      "size": "kit",
+      "price": "106.00"
+  },
+  {
+      "title": "botanical repair™ rich strengthening set",
+      "img": "https://www.aveda.com/media/images/products/330x548/white/av_sku_AV1086_123606_330x548_0.jpg",
+      "alt": "botanical repair<spanclass=\"trade\">&trade;</span> rich strengthening set",
+      "badge": "",
+      "size": "gift set",
+      "price": "142.00"
+  }
+]
