@@ -21,5 +21,8 @@ app.use(morgan('tiny'))
 // Routes
 app.use('/', appRouter)
 
+app.get('/*', (req, res) => {
+  res.json({status: 404})
+})
 
 app.listen(PORT, () => console.log(`Server listening on port ${PORT}`))
